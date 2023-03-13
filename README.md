@@ -11,30 +11,13 @@
 <p align="left"> <a href="https://twitter.com/ashikla693" target="blank"><img src="https://img.shields.io/twitter/follow/ashikla693?logo=twitter&style=for-the-badge" alt="ashikla693" /></a> </p>
 
 - 🔭 正在学习 **Python**
-- 🌱 I’m currently learning **web app testing**
+- 🌱 学习 **Web**
 - 📝 我在 [https://suwanya.cn/](https://suwanya.cn/)
 - 💬 询问我 **CTF**
 - 📫 联系我 **qq@suwanya.cn**
 
  
-<h3>Connect with Me!</h3>
-<p align="center">
-<br/>
-<a href="https://www.linkedin.com/in/abhishek-shukla-a549541b7/">
-  <img alt="guilyx's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/57393186/151711211-5c29f763-d28a-4b7a-a741-1f8c0dd2fe0e.png" />
-</a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/__avi_shukla__/">
-  <img alt="guilyx's Instagram" width="50px" src="https://user-images.githubusercontent.com/57393186/151711168-f5cc60d2-c486-46f1-bc23-c740b719d80d.png" />
-</a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/profile.php?id=100060197031639">
-  <img alt="guilyx's Instagram" width="50px" src="https://user-images.githubusercontent.com/57393186/151711101-1edfbc64-ca2f-456d-aa22-b96e2abb1246.png" />
-</a>&nbsp;&nbsp;
- <a href="https://twitter.com/ashikla693">
-  <img alt="guilyx's Instagram" width="50px" src="https://user-images.githubusercontent.com/60147732/151752017-e83f8422-77ce-447a-a51f-74d676e22c17.png" />
-</a>&nbsp;&nbsp;
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">使用的工具:</h3>
 
 <span>
    <img alt="html5" width="50px" src="https://img.icons8.com/color/240/000000/html-5.png">

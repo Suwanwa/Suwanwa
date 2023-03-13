@@ -16,10 +16,7 @@
 <h3 align="left">Use:</h3>
 <span>
    <img alt="html5" width="50px" src="https://img.icons8.com/color/240/000000/html-5.png">
-   <img alt="css3" width="50px" src="https://img.icons8.com/color/240/000000/css3.png">
-   <img alt="javascript" width="50px" src="https://img.icons8.com/color/240/000000/javascript.png" />
    <img src ="https://img.icons8.com/fluency/512/c-programming.png" width="50px"/>
-   <img src = "https://img.icons8.com/color/2x/c-plus-plus-logo.png" width="50px"/>
    <img src="https://img.icons8.com/color/64/000000/git.png" width="50px"/>
    <img alt="visual studio code" width="50px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />  
    <img src="https://img.icons8.com/color/512/old-vmware-logo.png" width="50px" />
